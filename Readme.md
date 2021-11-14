@@ -21,6 +21,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
+
 ##
   
 **Would you like to find me?**
