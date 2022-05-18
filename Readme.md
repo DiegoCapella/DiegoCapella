@@ -6,11 +6,9 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 ##
 
-<!--
 - 🔭 I'm looking to work oportuniti
 - 🌱 I'm currently learning: React.js, Next.js, TypeScript, Styled-components, GraphQL, TDD and Docker
 - ⚡ Fun fact: Strapi CMS, Node.js, Postgres and MongoDB
--->
 
 ##
   
