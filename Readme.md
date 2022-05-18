@@ -5,11 +5,12 @@ My name is Diego from Brazil(🇧🇷). I've been working as Front-End Developer
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
 ##
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCapella&layout=compact&langs_count=7&theme=dracula"/>
 
-##
-  
-
+<!--
+- 🔭 I'm looking to work oportuniti
+- 🌱 I'm currently learning: React.js, Next.js, TypeScript, Styled-components, GraphQL, TDD and Docker
+- ⚡ Fun fact: Strapi CMS, Node.js, Postgres and MongoDB
+-->
 
 ##
   
